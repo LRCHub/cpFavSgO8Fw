@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "Give Me Novacaine / She's a Rebel",
+  "base_artist": "Green Day",
+  "createdAt": "2026-03-10T03:38:54.323866Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Give Me Novacaine",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/01_Give_Me_Novacaine_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Give Me Novacaine",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/02_Give_Me_Novacaine_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Give Me Novacaine / She's a Rebel",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/03_Give_Me_Novacaine___She's_a_Rebel_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Give Me Novacaine\u0000She's a Rebel",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/04_Give_Me_Novacaine\u0000She's_a_Rebel_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Give Me Novacaine",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/05_Give_Me_Novacaine_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Give Me Novacaine / She's a Rebel (Album Version)",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/06_Give_Me_Novacaine___She's_a_Rebel_(Album_Version)_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Give Me Novacaine",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/07_Give_Me_Novacaine_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Give Me Novacaine - feat. Michael Esper, Stark Sands, Company [Album Version]",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/08_Give_Me_Novacaine_-_feat._Michael_Esper,_Stark_Sands,_Company_[Album_Version]_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Give Me Novacaine (feat. Michael Esper, Stark Sands, The American Idiot Broadway Company) (Album Version)",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/09_Give_Me_Novacaine_(feat._Michael_Esper,_Stark_Sands,_The_American_Idiot_Broadway_Green_Day.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Give Me Novacaine",
+      "artist": "Violet Orlandi",
+      "has_synced": false,
+      "path": "select/10_Give_Me_Novacaine_Violet_Orlandi.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Give Me Novacaine She's a Rebel",
+      "artist": "Green Day",
+      "has_synced": true,
+      "path": "select/11_Give_Me_Novacaine_She's_a_Rebel_Green_Day.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Give me Novacaine",
+      "artist": "Green Day",
+      "has_synced": false,
+      "path": "select/pl_01_Give_me_Novacaine_Green_Day.txt"
+    }
+  ]
+}
